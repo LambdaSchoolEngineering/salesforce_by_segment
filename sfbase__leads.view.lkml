@@ -1,5 +1,5 @@
 view: sfbase__leads {
-  sql_table_name: salesforce.leads ;;
+  sql_table_name: segment.salesforce.leads ;;
 
   dimension: id {
     primary_key: yes

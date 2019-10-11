@@ -1,4 +1,5 @@
-connection: "segment_sources"
+#connection: "segment_sources"
+connection: "snowflake"
 
 # include base (generated) views
 include: "sfbase__*.view"

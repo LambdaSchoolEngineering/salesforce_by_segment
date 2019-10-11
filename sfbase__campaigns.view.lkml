@@ -1,5 +1,5 @@
 view: sfbase__campaigns {
-  sql_table_name: salesforce.campaigns ;;
+  sql_table_name: segment.salesforce.campaigns ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: sfbase__accounts {
-  sql_table_name: salesforce.accounts ;;
+  sql_table_name: segment.salesforce.accounts ;;
 
   dimension: id {
     primary_key: yes
